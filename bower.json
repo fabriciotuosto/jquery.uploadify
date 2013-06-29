@@ -1,6 +1,6 @@
 {
   "name": "jquery-uploadify",
-  "version": "3.2",
+  "version": "3.2.0",
   "description": "jQuery plugin for multiple file upload",
   "main": [
     "./jquery.uploadify.js"
